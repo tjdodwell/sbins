@@ -1,0 +1,18 @@
+name: sbins
+channels:
+  - conda-forge
+dependencies:
+    - python=3
+    - six
+    - numpy
+    - scipy
+    - matplotlib
+    - sympy
+    - setuptools
+    - vtk
+    - ipywidgets
+    - pip:
+      - pythreejs==1.0.0
+      - pytest
+      - pymc3
+      - sklearn
