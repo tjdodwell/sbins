@@ -1,4 +1,0 @@
-
-
-from .Differentiation import SmoothedFiniteDifference
-

@@ -1,8 +1,0 @@
-README.md
-setup.py
-sbins/Differentiation.py
-sbins/__init__.py
-sbins.egg-info/PKG-INFO
-sbins.egg-info/SOURCES.txt
-sbins.egg-info/dependency_links.txt
-sbins.egg-info/top_level.txt
